@@ -8,8 +8,5 @@ Disciplina de **Pensamento Computacional**
 
 Desenvolvimento de site nas linguagens HTML e CSS
 
-Estudante: *Teotonio José de Souza Junior* nº *45*
-
-
-Estudante: *Josicreide da Silva Sauro*     nº 54
+Estudante: Maria Vitoria Costa Tremarin n18 
 
